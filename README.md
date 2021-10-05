@@ -18,7 +18,9 @@ For example, while on a mission an astronaut turns on the red light, which will 
 
 I decided on the color codes from universal meanings of colors. However, these colors can also represent different messages predetermined by astronauts(or other users).
 
-This interface may only be useful if the users can perceive colors. Yet, it can also be used to communicate with other living creatures in space. 
+This interface may only be useful if the users can perceive colors. Yet, it can also be used to communicate with other living creatures in space.
+
+![board-week1](https://user-images.githubusercontent.com/37816087/136069301-a731fa42-0cf0-4ebf-a706-013801960e07.gif)
 
 References:
 1. Long Duration Psychology. (2021). Retrieved 5 October 2021, from https://history.nasa.gov/SP-4225/long-duration/long.htm#:~:text=Long%20Duration%20Psychology,thing%22%20they%20had%20ever%20done.
