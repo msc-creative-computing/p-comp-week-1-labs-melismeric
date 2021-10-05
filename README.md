@@ -1,4 +1,4 @@
-# Homework#1 Creative Labs
+# WEEK#1 Creative Labs
 
 # Project: Mood-Board
 
